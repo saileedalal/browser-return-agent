@@ -1,3 +1,18 @@
+# Browser Agent for Automated Multi-Item Returns
+
+This repository contains the MVP implementation for my Product Management internship assignment at Faym.
+
+The solution automates browser-based return processing for e-commerce platforms while using Excel as the source of truth.
+
+Current Features
+
+- Read pending tasks from Excel
+- Process one row at a time
+- Flipkart workflow (MVP)
+- Human Review handling
+- Immediate Excel updates
+- Logging
+
 # Return Agent (MVP)
 
 A simple browser automation agent that reads pending return requests from an
